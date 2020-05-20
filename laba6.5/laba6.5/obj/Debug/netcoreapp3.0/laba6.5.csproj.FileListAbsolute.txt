@@ -1,0 +1,11 @@
+C:\Users\Пользователь\source\repos\laba6.5\laba6.5\bin\Debug\netcoreapp3.0\laba6.5.exe
+C:\Users\Пользователь\source\repos\laba6.5\laba6.5\bin\Debug\netcoreapp3.0\laba6.5.deps.json
+C:\Users\Пользователь\source\repos\laba6.5\laba6.5\bin\Debug\netcoreapp3.0\laba6.5.runtimeconfig.json
+C:\Users\Пользователь\source\repos\laba6.5\laba6.5\bin\Debug\netcoreapp3.0\laba6.5.runtimeconfig.dev.json
+C:\Users\Пользователь\source\repos\laba6.5\laba6.5\bin\Debug\netcoreapp3.0\laba6.5.dll
+C:\Users\Пользователь\source\repos\laba6.5\laba6.5\bin\Debug\netcoreapp3.0\laba6.5.pdb
+C:\Users\Пользователь\source\repos\laba6.5\laba6.5\obj\Debug\netcoreapp3.0\laba6.5.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\laba6.5\laba6.5\obj\Debug\netcoreapp3.0\laba6.5.AssemblyInfoInputs.cache
+C:\Users\Пользователь\source\repos\laba6.5\laba6.5\obj\Debug\netcoreapp3.0\laba6.5.AssemblyInfo.cs
+C:\Users\Пользователь\source\repos\laba6.5\laba6.5\obj\Debug\netcoreapp3.0\laba6.5.dll
+C:\Users\Пользователь\source\repos\laba6.5\laba6.5\obj\Debug\netcoreapp3.0\laba6.5.pdb
